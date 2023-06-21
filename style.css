@@ -1,11 +1,11 @@
-body{
-    background-color: #ccc;
+body {
+    background-color: #f2f2f2;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}
-
-.container {
+  }
+  
+  .container {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
@@ -13,35 +13,35 @@ body{
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
-}
-
-h1{
+  }
+  
+  h1 {
     color: #333;
-}
-
-.input-container{
+  }
+  
+  .input-container {
     margin-bottom: 10px;
     text-align: left;
-}
-
-input[type="number"]{
+  }
+  
+  input[type="number"] {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
-}
-
-button{
+  }
+  
+  button {
     background-color: #4caf50;
     color: #fff;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
-}
-
-#result{
+  }
+  
+  #result {
     margin-top: 20px;
     font-weight: bold;
-}
+  }
